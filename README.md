@@ -6,10 +6,10 @@ Software Engineering student at the **University of Brasília (UnB)**.
 
 ### Areas of Interest
 I am actively developing projects and seeking to deepen my expertise in the following fields:
-* **Full-stack Development:** 
-* **Data Analysis:** 
-* **Artificial Intelligence:** 
-* **Cybersecurity:** 
+* **Full-stack Development** 
+* **Data Analysis** 
+* **Artificial Intelligence** 
+* **Cybersecurity** 
 
 ---
 
