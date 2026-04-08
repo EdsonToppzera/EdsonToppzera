@@ -27,5 +27,5 @@ I am actively developing projects and seeking to deepen my expertise in the foll
 ---
 
 ### 📫 Connect with me:
-- **LinkedIn:** (https://www.linkedin.com/in/edson-gabriel-barbosa-brand%C3%A3o-01184b3a9)
+- **LinkedIn:** https://www.linkedin.com/in/edson-gabriel-barbosa-brand%C3%A3o-01184b3a9
 - **Email:** edsongabrielbb@gmail.com
