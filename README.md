@@ -26,9 +26,3 @@ I am actively developing projects and seeking to deepen my expertise in the foll
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-### 📫 Connect with me:
-- **LinkedIn:** https://www.linkedin.com/in/edson-gabriel-barbosa-brand%C3%A3o-01184b3a9
-- **Email:** edsongabrielbb@gmail.com
